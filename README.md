@@ -24,10 +24,6 @@ The challenge is to **type the color of the text, not the word itself** — soun
 
 ---
 
-## 📷 Screenshot  
-*(Add a screenshot of your game here if you’d like, e.g., `game.png`)*  
-
----
 
 ## 📂 Project Structure  
 ```
