@@ -33,7 +33,7 @@ The challenge is to **type the color of the text, not the word itself** — soun
 ```
 Color-Game/
 │
-├── color_game.py       # Main game file
+├── main.py       # Main game file
 ├── highest_score.txt   # Stores the highest score
 └── README.md           # Project documentation
 ```
@@ -52,7 +52,7 @@ Clone this repo and run the script:
 ```bash
 git clone https://github.com/deepika11223/Color-Game.git
 cd Color-Game
-python color_game.py
+python main.py
 ```
 
 ---
